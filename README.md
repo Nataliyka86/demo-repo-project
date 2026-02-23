@@ -1,3 +1,3 @@
 # READ ME 
 
-This is an examplpe of ReadMe file
+This is an examplpe of ReadMe file!
